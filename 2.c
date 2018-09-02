@@ -14,7 +14,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 2.Hotspot \n Final money won Rs. 0 \n Game over \n");
+		printf("Wrong Answer \n The right answer is 2.Hotspot \n Final money won Rs. 0 \n Game over \n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q2) Who was the lead actress in the film Padmavat? \n");
@@ -26,7 +26,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 3.Deepika Padukone \n Final money won Rs. 5,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 3.Deepika Padukone \n Final money won Rs. 5,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q3) Which game P V Sindhu plays? \n");
@@ -38,7 +38,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 3.Badminton \n Final money won Rs. 10,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 3.Badminton \n Final money won Rs. 10,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q4) The South-West coast(Goa part of india) of India is popularly Known as? \n");
@@ -50,7 +50,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 4.Konkan \n Final money won Rs. 20,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 4.Konkan \n Final money won Rs. 20,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q5) Which one these politians became the president of his party in december 2017? \n");
@@ -62,7 +62,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 3.Rahul Gandhi \n Final money won Rs. 40,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 3.Rahul Gandhi \n Final money won Rs. 40,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q6) In which of these region of Gujarat would you find towns named Gondal and Virpur Jalaram Temple? \n");
@@ -74,7 +74,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 3.Saurashtra \n Final money won Rs. 80,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 3.Saurashtra \n Final money won Rs. 80,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q6) Recently which car was introduced by Tata motors during auto expo 2018 in India? \n");
@@ -86,7 +86,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 1.H5X and 45X \n Final money won Rs. 1,60,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 1.H5X and 45X \n Final money won Rs. 1,60,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q7) Who among these is regarded as the inventor of the air conditioners? \n");
@@ -98,7 +98,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 2.Willis Carrier \n Final money won Rs. 3,20,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 2.Willis Carrier \n Final money won Rs. 3,20,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q8) Whos is the Chief Minister of Delhi in the year 2015? \n");
@@ -110,7 +110,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 1.Arvind Kejriwal \n Final money won Rs. 6,40,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 1.Arvind Kejriwal \n Final money won Rs. 6,40,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q9) Which theoritical physicist passed away recently? \n");
@@ -122,7 +122,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 2.Hotspot \n Final money won Rs. 5000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 2.Hotspot \n Final money won Rs. 5000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q10) Sardar Sarovar is built on which river? \n");
@@ -134,7 +134,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 1.Narmada \n Final money won Rs. 25,00,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 1.Narmada \n Final money won Rs. 25,00,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q11) Which 2017 hindi movie was planned to go at Oscar 2018? \n");
@@ -146,7 +146,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 3.Newton \n Final money won Rs. 50,00,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 3.Newton \n Final money won Rs. 50,00,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q12) Marwar is part of which state? \n");
@@ -158,7 +158,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 3.Rajasthan \n Final money won Rs. 1,00,00,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 3.Rajasthan \n Final money won Rs. 1,00,00,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q13) Which one these is an i=Indian government institution that controls all the communication and connectivity? \n");
@@ -170,7 +170,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 3.TRAI \n Final money won Rs. 2,00,00,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 3.TRAI \n Final money won Rs. 2,00,00,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q14) Which of thes states that the maker of a product is responsible for repairing or replacing it if necessary? \n");
@@ -182,7 +182,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 2.Warranty Card \n Final money won Rs. 3,00,00,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 2.Warranty Card \n Final money won Rs. 3,00,00,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	printf("\n Q15) Who is the current Foriegn Minister of India? \n");
@@ -194,7 +194,7 @@ int main()
 	}
 	else
 	{
-		printf("Wrong Answer \n The right answer is 1.Sushma Swaraj \n Final money won Rs. 5,00,00,000 \n Game over\n");
+		printf("Wrong Answer \n The right answer is 1.Sushma Swaraj \n Final money won Rs. 5,00,00,000 \n Game over\n Better Luck Next Time\n");
 		exit(0);
 	}
 	return 0;
